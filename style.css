@@ -1,0 +1,27 @@
+.x {
+	color: #3F88C5;
+}
+
+.o {
+	color: #E2C290;
+}
+
+.cell:hover {
+	background-color: #323232;
+}
+
+.tic-tac-toe td {
+	width:80px;
+  height:80px;
+  border: 5px solid #000000;
+  background: #FFFFFF;
+  font-size: 46pt;
+  font-family: arial;
+  font-weight: bold;
+  text-align: center;
+	margin: auto;
+}
+
+#reset {
+  border: 1px solid #000;
+}
